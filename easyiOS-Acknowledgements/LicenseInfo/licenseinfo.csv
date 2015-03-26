@@ -1,0 +1,12 @@
+Pod,Project,DebugOnly,Author,License,Link
+SVProgressHUD,TH,0,Sam Vermette,OpenSource,https://github.com/TransitApp/SVProgressHUD
+ActionSheetPicker-3.0,TPBUtils,0,Tim Cinel,BSD,https://github.com/skywinder/ActionSheetPicker-3.0
+PureLayout,TPBUtils,0,Tyler Fox,MIT,https://github.com/smileyborg/PureLayout
+FXBlurView,DTG,0,Charcoal Design,OpenSource,https://github.com/nicklockwood/FXBlurView
+NSLogger,TH,1,Louis Harboe,BSD,https://github.com/fpillet/NSLogger
+CocoaLumberJack,TH,1,Robbie Hanson,BSD,https://github.com/CocoaLumberjack/CocoaLumberjack
+DynamicTableGenerator,TH,0,Theodore Brown,OpenSource,https://github.com/TheoBrown/DynamicTableGenerator-iOS
+NMRangeSlider,RT,0,Murray Hughes,https://github.com/muZZkat/NMRangeSlider
+FDWaveformView,RT,0,William Entriken,https://github.com/fulldecent/FDWaveformView
+iRate,RT,0,Charcoal Design,https://github.com/nicklockwood/iRate
+SVWebViewController,RT,0,Sam Vermette,https://github.com/TransitApp/SVWebViewController

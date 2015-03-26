@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8C238A17D0ECBD4DFF8B8652 /* libPods-easyiOS-Acknowledgements.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C043FE581AF4210E46715B3 /* libPods-easyiOS-Acknowledgements.a */; };
 		F607127C1AC3A13300CBA3CB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F607127B1AC3A13300CBA3CB /* main.m */; };
 		F607127F1AC3A13300CBA3CB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F607127E1AC3A13300CBA3CB /* AppDelegate.m */; };
 		F60712821AC3A13300CBA3CB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F60712811AC3A13300CBA3CB /* ViewController.m */; };
@@ -14,6 +15,25 @@
 		F60712871AC3A13300CBA3CB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F60712861AC3A13300CBA3CB /* Images.xcassets */; };
 		F607128A1AC3A13300CBA3CB /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F60712881AC3A13300CBA3CB /* LaunchScreen.xib */; };
 		F60712961AC3A13300CBA3CB /* easyiOS_AcknowledgementsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F60712951AC3A13300CBA3CB /* easyiOS_AcknowledgementsTests.m */; };
+		F60712B11AC3A4AA00CBA3CB /* ActionSheetPicker-3.0.txt in Resources */ = {isa = PBXBuildFile; fileRef = F60712A01AC3A4AA00CBA3CB /* ActionSheetPicker-3.0.txt */; };
+		F60712B21AC3A4AA00CBA3CB /* CocoaLumberJack.txt in Resources */ = {isa = PBXBuildFile; fileRef = F60712A11AC3A4AA00CBA3CB /* CocoaLumberJack.txt */; };
+		F60712B31AC3A4AA00CBA3CB /* DCIntrospect.txt in Resources */ = {isa = PBXBuildFile; fileRef = F60712A21AC3A4AA00CBA3CB /* DCIntrospect.txt */; };
+		F60712B41AC3A4AA00CBA3CB /* DynamicTableGenerator.txt in Resources */ = {isa = PBXBuildFile; fileRef = F60712A31AC3A4AA00CBA3CB /* DynamicTableGenerator.txt */; };
+		F60712B51AC3A4AA00CBA3CB /* FDWaveformView.txt in Resources */ = {isa = PBXBuildFile; fileRef = F60712A41AC3A4AA00CBA3CB /* FDWaveformView.txt */; };
+		F60712B61AC3A4AA00CBA3CB /* FXBlurView.txt in Resources */ = {isa = PBXBuildFile; fileRef = F60712A51AC3A4AA00CBA3CB /* FXBlurView.txt */; };
+		F60712B71AC3A4AA00CBA3CB /* ios-blur.txt in Resources */ = {isa = PBXBuildFile; fileRef = F60712A61AC3A4AA00CBA3CB /* ios-blur.txt */; };
+		F60712B81AC3A4AA00CBA3CB /* iRate.txt in Resources */ = {isa = PBXBuildFile; fileRef = F60712A71AC3A4AA00CBA3CB /* iRate.txt */; };
+		F60712B91AC3A4AA00CBA3CB /* licenseinfo.csv in Resources */ = {isa = PBXBuildFile; fileRef = F60712A81AC3A4AA00CBA3CB /* licenseinfo.csv */; };
+		F60712BA1AC3A4AA00CBA3CB /* NMRangeSlider.txt in Resources */ = {isa = PBXBuildFile; fileRef = F60712A91AC3A4AA00CBA3CB /* NMRangeSlider.txt */; };
+		F60712BB1AC3A4AA00CBA3CB /* NSLogger.txt in Resources */ = {isa = PBXBuildFile; fileRef = F60712AA1AC3A4AA00CBA3CB /* NSLogger.txt */; };
+		F60712BC1AC3A4AA00CBA3CB /* NSMRangeSlider.txt in Resources */ = {isa = PBXBuildFile; fileRef = F60712AB1AC3A4AA00CBA3CB /* NSMRangeSlider.txt */; };
+		F60712BD1AC3A4AA00CBA3CB /* PureLayout.txt in Resources */ = {isa = PBXBuildFile; fileRef = F60712AC1AC3A4AA00CBA3CB /* PureLayout.txt */; };
+		F60712BE1AC3A4AA00CBA3CB /* SAVideoRangeSlider.txt in Resources */ = {isa = PBXBuildFile; fileRef = F60712AD1AC3A4AA00CBA3CB /* SAVideoRangeSlider.txt */; };
+		F60712BF1AC3A4AA00CBA3CB /* SVProgressHUD.txt in Resources */ = {isa = PBXBuildFile; fileRef = F60712AE1AC3A4AA00CBA3CB /* SVProgressHUD.txt */; };
+		F60712C01AC3A4AA00CBA3CB /* SVWebViewController.txt in Resources */ = {isa = PBXBuildFile; fileRef = F60712AF1AC3A4AA00CBA3CB /* SVWebViewController.txt */; };
+		F60712C11AC3A4AA00CBA3CB /* SWTableViewCell.txt in Resources */ = {isa = PBXBuildFile; fileRef = F60712B01AC3A4AA00CBA3CB /* SWTableViewCell.txt */; };
+		F60712C41AC3A5B400CBA3CB /* LicenseDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F60712C21AC3A5B400CBA3CB /* LicenseDetailViewController.m */; };
+		F60712C61AC3A76400CBA3CB /* appbar.settings.png in Resources */ = {isa = PBXBuildFile; fileRef = F60712C51AC3A76400CBA3CB /* appbar.settings.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +47,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7D7CAE8F310B78B4B9E2DE47 /* Pods-easyiOS-Acknowledgements.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-easyiOS-Acknowledgements.debug.xcconfig"; path = "Pods/Target Support Files/Pods-easyiOS-Acknowledgements/Pods-easyiOS-Acknowledgements.debug.xcconfig"; sourceTree = "<group>"; };
+		89ABF2C3F5CBD897EF19068C /* Pods-easyiOS-Acknowledgements.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-easyiOS-Acknowledgements.release.xcconfig"; path = "Pods/Target Support Files/Pods-easyiOS-Acknowledgements/Pods-easyiOS-Acknowledgements.release.xcconfig"; sourceTree = "<group>"; };
+		9C043FE581AF4210E46715B3 /* libPods-easyiOS-Acknowledgements.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-easyiOS-Acknowledgements.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F60712761AC3A13300CBA3CB /* easyiOS-Acknowledgements.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "easyiOS-Acknowledgements.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F607127A1AC3A13300CBA3CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F607127B1AC3A13300CBA3CB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +63,26 @@
 		F607128F1AC3A13300CBA3CB /* easyiOS-AcknowledgementsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "easyiOS-AcknowledgementsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F60712941AC3A13300CBA3CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F60712951AC3A13300CBA3CB /* easyiOS_AcknowledgementsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = easyiOS_AcknowledgementsTests.m; sourceTree = "<group>"; };
+		F60712A01AC3A4AA00CBA3CB /* ActionSheetPicker-3.0.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ActionSheetPicker-3.0.txt"; sourceTree = "<group>"; };
+		F60712A11AC3A4AA00CBA3CB /* CocoaLumberJack.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CocoaLumberJack.txt; sourceTree = "<group>"; };
+		F60712A21AC3A4AA00CBA3CB /* DCIntrospect.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = DCIntrospect.txt; sourceTree = "<group>"; };
+		F60712A31AC3A4AA00CBA3CB /* DynamicTableGenerator.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = DynamicTableGenerator.txt; sourceTree = "<group>"; };
+		F60712A41AC3A4AA00CBA3CB /* FDWaveformView.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FDWaveformView.txt; sourceTree = "<group>"; };
+		F60712A51AC3A4AA00CBA3CB /* FXBlurView.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FXBlurView.txt; sourceTree = "<group>"; };
+		F60712A61AC3A4AA00CBA3CB /* ios-blur.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ios-blur.txt"; sourceTree = "<group>"; };
+		F60712A71AC3A4AA00CBA3CB /* iRate.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = iRate.txt; sourceTree = "<group>"; };
+		F60712A81AC3A4AA00CBA3CB /* licenseinfo.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = licenseinfo.csv; path = LicenseInfo/licenseinfo.csv; sourceTree = "<group>"; };
+		F60712A91AC3A4AA00CBA3CB /* NMRangeSlider.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = NMRangeSlider.txt; sourceTree = "<group>"; };
+		F60712AA1AC3A4AA00CBA3CB /* NSLogger.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = NSLogger.txt; sourceTree = "<group>"; };
+		F60712AB1AC3A4AA00CBA3CB /* NSMRangeSlider.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = NSMRangeSlider.txt; sourceTree = "<group>"; };
+		F60712AC1AC3A4AA00CBA3CB /* PureLayout.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = PureLayout.txt; sourceTree = "<group>"; };
+		F60712AD1AC3A4AA00CBA3CB /* SAVideoRangeSlider.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SAVideoRangeSlider.txt; sourceTree = "<group>"; };
+		F60712AE1AC3A4AA00CBA3CB /* SVProgressHUD.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SVProgressHUD.txt; sourceTree = "<group>"; };
+		F60712AF1AC3A4AA00CBA3CB /* SVWebViewController.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SVWebViewController.txt; sourceTree = "<group>"; };
+		F60712B01AC3A4AA00CBA3CB /* SWTableViewCell.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SWTableViewCell.txt; sourceTree = "<group>"; };
+		F60712C21AC3A5B400CBA3CB /* LicenseDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LicenseDetailViewController.m; sourceTree = "<group>"; };
+		F60712C31AC3A5B400CBA3CB /* LicenseDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LicenseDetailViewController.h; sourceTree = "<group>"; };
+		F60712C51AC3A76400CBA3CB /* appbar.settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appbar.settings.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8C238A17D0ECBD4DFF8B8652 /* libPods-easyiOS-Acknowledgements.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -60,12 +104,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		684A5C3BBBF74DCABEA97E82 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9C043FE581AF4210E46715B3 /* libPods-easyiOS-Acknowledgements.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		DFAF1923733F372DE4096269 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				7D7CAE8F310B78B4B9E2DE47 /* Pods-easyiOS-Acknowledgements.debug.xcconfig */,
+				89ABF2C3F5CBD897EF19068C /* Pods-easyiOS-Acknowledgements.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		F607126D1AC3A13300CBA3CB = {
 			isa = PBXGroup;
 			children = (
 				F60712781AC3A13300CBA3CB /* easyiOS-Acknowledgements */,
 				F60712921AC3A13300CBA3CB /* easyiOS-AcknowledgementsTests */,
 				F60712771AC3A13300CBA3CB /* Products */,
+				DFAF1923733F372DE4096269 /* Pods */,
+				684A5C3BBBF74DCABEA97E82 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -86,6 +149,8 @@
 				F60712801AC3A13300CBA3CB /* ViewController.h */,
 				F60712811AC3A13300CBA3CB /* ViewController.m */,
 				F60712831AC3A13300CBA3CB /* Main.storyboard */,
+				F60712C31AC3A5B400CBA3CB /* LicenseDetailViewController.h */,
+				F60712C21AC3A5B400CBA3CB /* LicenseDetailViewController.m */,
 				F60712861AC3A13300CBA3CB /* Images.xcassets */,
 				F60712881AC3A13300CBA3CB /* LaunchScreen.xib */,
 				F60712791AC3A13300CBA3CB /* Supporting Files */,
@@ -96,6 +161,9 @@
 		F60712791AC3A13300CBA3CB /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F60712C51AC3A76400CBA3CB /* appbar.settings.png */,
+				F60712A81AC3A4AA00CBA3CB /* licenseinfo.csv */,
+				F607129F1AC3A4AA00CBA3CB /* LicenseInfo */,
 				F607127A1AC3A13300CBA3CB /* Info.plist */,
 				F607127B1AC3A13300CBA3CB /* main.m */,
 			);
@@ -119,6 +187,29 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		F607129F1AC3A4AA00CBA3CB /* LicenseInfo */ = {
+			isa = PBXGroup;
+			children = (
+				F60712A01AC3A4AA00CBA3CB /* ActionSheetPicker-3.0.txt */,
+				F60712A11AC3A4AA00CBA3CB /* CocoaLumberJack.txt */,
+				F60712A21AC3A4AA00CBA3CB /* DCIntrospect.txt */,
+				F60712A31AC3A4AA00CBA3CB /* DynamicTableGenerator.txt */,
+				F60712A41AC3A4AA00CBA3CB /* FDWaveformView.txt */,
+				F60712A51AC3A4AA00CBA3CB /* FXBlurView.txt */,
+				F60712A61AC3A4AA00CBA3CB /* ios-blur.txt */,
+				F60712A71AC3A4AA00CBA3CB /* iRate.txt */,
+				F60712A91AC3A4AA00CBA3CB /* NMRangeSlider.txt */,
+				F60712AA1AC3A4AA00CBA3CB /* NSLogger.txt */,
+				F60712AB1AC3A4AA00CBA3CB /* NSMRangeSlider.txt */,
+				F60712AC1AC3A4AA00CBA3CB /* PureLayout.txt */,
+				F60712AD1AC3A4AA00CBA3CB /* SAVideoRangeSlider.txt */,
+				F60712AE1AC3A4AA00CBA3CB /* SVProgressHUD.txt */,
+				F60712AF1AC3A4AA00CBA3CB /* SVWebViewController.txt */,
+				F60712B01AC3A4AA00CBA3CB /* SWTableViewCell.txt */,
+			);
+			path = LicenseInfo;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -126,9 +217,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F60712991AC3A13300CBA3CB /* Build configuration list for PBXNativeTarget "easyiOS-Acknowledgements" */;
 			buildPhases = (
+				DD23E4F3B7DE22E407D860AC /* Check Pods Manifest.lock */,
 				F60712721AC3A13300CBA3CB /* Sources */,
 				F60712731AC3A13300CBA3CB /* Frameworks */,
 				F60712741AC3A13300CBA3CB /* Resources */,
+				B843E4CCF7FA33BEDCEE3B83 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -199,8 +292,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F60712B31AC3A4AA00CBA3CB /* DCIntrospect.txt in Resources */,
+				F60712BC1AC3A4AA00CBA3CB /* NSMRangeSlider.txt in Resources */,
 				F60712851AC3A13300CBA3CB /* Main.storyboard in Resources */,
+				F60712B41AC3A4AA00CBA3CB /* DynamicTableGenerator.txt in Resources */,
+				F60712BF1AC3A4AA00CBA3CB /* SVProgressHUD.txt in Resources */,
+				F60712BB1AC3A4AA00CBA3CB /* NSLogger.txt in Resources */,
 				F607128A1AC3A13300CBA3CB /* LaunchScreen.xib in Resources */,
+				F60712C01AC3A4AA00CBA3CB /* SVWebViewController.txt in Resources */,
+				F60712BE1AC3A4AA00CBA3CB /* SAVideoRangeSlider.txt in Resources */,
+				F60712BD1AC3A4AA00CBA3CB /* PureLayout.txt in Resources */,
+				F60712B91AC3A4AA00CBA3CB /* licenseinfo.csv in Resources */,
+				F60712BA1AC3A4AA00CBA3CB /* NMRangeSlider.txt in Resources */,
+				F60712B51AC3A4AA00CBA3CB /* FDWaveformView.txt in Resources */,
+				F60712B71AC3A4AA00CBA3CB /* ios-blur.txt in Resources */,
+				F60712B81AC3A4AA00CBA3CB /* iRate.txt in Resources */,
+				F60712C61AC3A76400CBA3CB /* appbar.settings.png in Resources */,
+				F60712B11AC3A4AA00CBA3CB /* ActionSheetPicker-3.0.txt in Resources */,
+				F60712B61AC3A4AA00CBA3CB /* FXBlurView.txt in Resources */,
+				F60712B21AC3A4AA00CBA3CB /* CocoaLumberJack.txt in Resources */,
+				F60712C11AC3A4AA00CBA3CB /* SWTableViewCell.txt in Resources */,
 				F60712871AC3A13300CBA3CB /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -214,12 +325,46 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		B843E4CCF7FA33BEDCEE3B83 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-easyiOS-Acknowledgements/Pods-easyiOS-Acknowledgements-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DD23E4F3B7DE22E407D860AC /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		F60712721AC3A13300CBA3CB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				F60712821AC3A13300CBA3CB /* ViewController.m in Sources */,
+				F60712C41AC3A5B400CBA3CB /* LicenseDetailViewController.m in Sources */,
 				F607127F1AC3A13300CBA3CB /* AppDelegate.m in Sources */,
 				F607127C1AC3A13300CBA3CB /* main.m in Sources */,
 			);
@@ -343,6 +488,7 @@
 		};
 		F607129A1AC3A13300CBA3CB /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7D7CAE8F310B78B4B9E2DE47 /* Pods-easyiOS-Acknowledgements.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "easyiOS-Acknowledgements/Info.plist";
@@ -353,6 +499,7 @@
 		};
 		F607129B1AC3A13300CBA3CB /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 89ABF2C3F5CBD897EF19068C /* Pods-easyiOS-Acknowledgements.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "easyiOS-Acknowledgements/Info.plist";
@@ -414,6 +561,7 @@
 				F607129B1AC3A13300CBA3CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F607129C1AC3A13300CBA3CB /* Build configuration list for PBXNativeTarget "easyiOS-AcknowledgementsTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +570,7 @@
 				F607129E1AC3A13300CBA3CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

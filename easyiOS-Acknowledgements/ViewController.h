@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "DynamicTableView.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <OptionsDelegate>
 
 
 @end
